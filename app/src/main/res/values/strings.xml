@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ToDo лист</string>
+    <string name="add_btn">+ Добавить</string>
+    <string name="add_title">Задача</string>
+    <string name="save_btn">Сохранить</string>
+    <string name="del_btn">Удалить</string>
+    <string name="modif_btn">Изменить</string>
+    <string name="modif_title">Изменить задачу</string>
+    <string name="completed">Выполнено</string>
+    <string name="waiting">Ожидание</string>
+    <string name="task">Задача</string>
+    <string name="detail">Детали</string>
+    <string name="deadline">Дата выполнения</string>
+    <string name="done">Сделано!</string>
+    <string name="required">Необходимо заполнить!</string>
+    <string name="sure">Вы уверены?</string>
+    <string name="ok">Да</string>
+    <string name="cancel">Отмена</string>
+</resources>
